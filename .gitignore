@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__init__.pyc
+__init__.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# User-specific Python files
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+build/
+dist/
