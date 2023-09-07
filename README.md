@@ -5,6 +5,7 @@
 1.  **Install Python**:
     
     Make sure you have Python installed on your system. If not, you can download it from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
+    (**Recommended:** Install Python version 3.11.0)
 2. **Recommended: Create directory to hold backend in.**
 3. **Clone repository by running command**
 	```
